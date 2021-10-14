@@ -1,0 +1,2 @@
+[remote "origin"]
+	lfsurl = https://c3i.jfrog.io/artifactory/api/lfs/cci-sources-backup

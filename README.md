@@ -15,3 +15,4 @@ A more general and robust solution will be released in the following months.
 > **Note.-** **Do not use these sources.** We might remove, rename, move or change them
 > without previous notice. 
 
+> **Note.-** We are using Git LFS to store large files using Artifactory as backend.
